@@ -1,6 +1,8 @@
 # Spacestagram
 This web app was created base on the Shopify Frontend Developer Intern Challenge Summer 2022.
 
+You can visit the site using the following link https://spacetstagram.netlify.app/
+
 ## Features
 Displays 10 images from the NASA Astronomy Picture of the day API.
 * Liked posts are saved to localStorage
